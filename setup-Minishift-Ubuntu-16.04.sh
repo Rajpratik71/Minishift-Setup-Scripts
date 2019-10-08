@@ -77,7 +77,7 @@ sudo chmod +x /usr/local/bin/minishift
 #
 # Running Minishift
 #
-minishift
+sudo minishift
 #
 # Follow Minishift Quickstart at https://docs.okd.io/latest/minishift/getting-started/quickstart.html
 # Thank you.
